@@ -8,8 +8,7 @@ This repository contains the source code for my personal portfolio website. It i
 
 ## 🚀 Live Demo
 The portfolio is hosted on GitHub Pages. You can view the live version by clicking the link below:
-**[➡️ View My Live Portfolio](https://your-github-username.github.io/your-repo-name/)**
-*(Note: This link will be updated with the live URL after the initial deployment.)*
+**[➡️ View My Live Portfolio](https://sakithaa.github.io/Data_Portfolio/)**
 
 
 ## ✨ Key Features
